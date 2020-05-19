@@ -25,15 +25,13 @@ For the project proposal, please write a short abstact addressing the questions 
 - Why is it interesting? (personally, culturally, politically, other)
 - List three papers / art projects that are references for this work.
 
-## Data
+## Data and Model
 
 (10 points) 
 
-This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
-- What is your cultural data source? 
-- When was it made? 
-- Who created the works? 
-- Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
+In the final submission, this section will describe both the data you use for this project and any pre-existing models/neural nets. For each you should provide the name, a textual description, and a link. If there is a paper (for neural net) link that as well.
+- Such and such Neural Net. The short description of this neural net. [Title of Paper with Link](). [Link to code Repo]().
+- Training data. Short description of training data including bibliographic info. [Link to data]().
 
 ## Code
 
@@ -41,11 +39,12 @@ This section will describe your data and its origins. Each item should contain a
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
-- data acquisition/scraping
-- preprocessing
+- code for data acquisition/scraping
+- code for preprocessing
+- training code (if appropriate)
 - generative methods
 
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
+Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
@@ -83,7 +82,7 @@ Any implementation details or notes we need to repeat your work.
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
+All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
 - Papers
 - Repositories
 - Blog posts
