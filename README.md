@@ -1,6 +1,6 @@
 # Project Title
 
-DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
+DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 
 Project Team Members: 
 - Firstname Lastname1, name1@ucsd.edu
@@ -13,15 +13,14 @@ Project Team Members:
 
 (10 points) 
 
-For the project proposal, please write a short abstact addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
+For the project proposal, please write a short abstact addressing the questions below. You need to replace the entire contents of this section with one to two paragraphs addressing the following:
 
-- What is the data set that you are going to analyze?
-- What is your research question? 
-- What is your hypothesis about the results? 
-- What features of the data will you use to address your question? 
-- What techniques and software tools will you use to extract these features?
-- What analytic techniques will you use?
-- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
+- What is your concept for a generative art project? 
+- What methods/networks/techniques will you employ (include links to technical precedents/code bases)
+- What training data (if any) will you use for your project? 
+- What kind of results do you hope that your system will produce?
+- How will you present your result/what form will your output take?
+- What if any challenges to you think may arise as you are working with this?
 - How are you expanding on topics we have covered in class? 
 - Why is it interesting? (personally, culturally, politically, other)
 
@@ -42,9 +41,8 @@ This section will describe your data and its origins. Each item should contain a
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
 - data acquisition/scraping
-- cleaning
-- analysis
-- generating results. 
+- preprocessing
+- generative methods
 
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
@@ -52,7 +50,7 @@ Link each of your notebooks or .py files within this section, and provide a brie
 
 (30 points) 
 
-This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
+This section should summarize your results and will embed links to documentation to significant outputs. This should document both process and show artistic results. This can include figures, sound files, videos, bitmaps, as appropriate to your generative art idea. Each result should include a brief textual description, and all should be listed below: 
 
 - image files (`.jpg`, `.png` or whatever else is appropriate)
 - audio files (`.wav`, `.mp3`)
@@ -65,10 +63,10 @@ This section will contain links to documentation of your results. This can inclu
 The first paragraph should be a short summary describing your results.
 
 The subsequent paragraphs could address questions including:
-- Why is this culturally relevant?
-- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
-- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
+- Why is this culturally innovative?
+- How does your generative computational approach differ from traditional art/music/cultural production? 
 - How do your results relate to broader social, cultural, economic political, etc., issues? 
+- What are the ethical concerns for this form of generative art? 
 - In what future directions could you expand this work?
 
 ## Team Roles
