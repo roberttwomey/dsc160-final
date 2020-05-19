@@ -23,6 +23,7 @@ For the project proposal, please write a short abstact addressing the questions 
 - What if any challenges to you think may arise as you are working with this?
 - How are you expanding on topics we have covered in class? 
 - Why is it interesting? (personally, culturally, politically, other)
+- List three papers / art projects that are references for this work.
 
 ## Data
 
